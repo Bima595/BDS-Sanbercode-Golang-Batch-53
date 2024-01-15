@@ -1,0 +1,6 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Satria Abimanyu Putra Wijayatama
+2. Email: satriaabimanyu@gmail.com
+3. Sistem Operasi yang digunakan: Windows 11
+4. Akun Gitlab/Github: Bima595
+5. Akun Telegram: 2021 SATRIA 395
