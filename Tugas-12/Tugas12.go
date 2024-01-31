@@ -122,7 +122,7 @@ func main() {
 		w.Write([]byte(result))
 	})
 
-	fmt.Println("Server is running on http://localhost:8080")
-	http.ListenAndServe(":8080", nil)
+	fmt.Println("Server is running on http://localhost:3301")
+	http.ListenAndServe(":3301", nil)
 }
 
