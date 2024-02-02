@@ -2,13 +2,13 @@ package main
 
 import (
 	"Tugas-14/Config"
-	"Tugas-14/Models"
+	Mahasiswa "Tugas-14/Models"
 	"Tugas-14/utils"
 	"encoding/json"
 	"fmt"
-	"strconv"
 	"log"
 	"net/http"
+	"strconv"
 	"time"
 
 	"github.com/julienschmidt/httprouter"

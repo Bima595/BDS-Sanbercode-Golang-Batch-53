@@ -2,8 +2,8 @@
 package Mahasiswa
 
 import (
-	"time"
 	"errors"
+	"time"
 )
 
 // Mahasiswa model
